@@ -1,0 +1,47 @@
+.outerbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    /* margin: auto; */
+}
+
+.box1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-self: stretch;
+}
+
+.card2 {
+    width: 348px;
+    height: 140px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    border: 1px solid var(--Gray-Divider, #E5E5E5);
+    background: var(--White-High-Emphasis, #FFF);
+    padding: 25px;
+}
+
+.recipe {
+    color: #656565;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    /* 150% */
+}
+
+.coner {
+    display: flex;
+    justify-content: flex-end;
+    color: rgba(0, 0, 0, 0.60);
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 15px;
+    /* 125% */
+    letter-spacing: 0.4px;
+}
