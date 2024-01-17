@@ -5,6 +5,8 @@ import 'C:/Users/ynnav/OneDrive/Documents/nextjs/Project/intern_project/node_mod
 const Table = () => {
     return (
         <div className="container d-flex justify-content-center">
+
+
             <div className='container mt-5 text-center'>
                 <table className='table '>
                     <thead className='table-secondary'>
