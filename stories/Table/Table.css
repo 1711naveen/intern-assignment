@@ -1,0 +1,9 @@
+.text{
+    color: var(--Base-Black, #242424);
+font-family: Noto Sans;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -1px;
+}
