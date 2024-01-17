@@ -7,7 +7,7 @@ import Page from '@/stories/Page/Page'
 export default function Home() {
   return (
 
-    <div className="container d-flex justify-content-center" style={{backgroundColor:"white"}}>
+    <div className="container d-flex justify-content-center" style={{backgroundColor:"#B2BEB5"}}>
       <Form />
       <br /><br />
       <Card />
