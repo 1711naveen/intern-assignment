@@ -1,6 +1,5 @@
 import { Inter } from 'next/font/google'
 import './globals.css'
-import 'C:/Users/ynnav/Downloads/bipolar/bipolar_intern_assignment/node_modules/bootstrap/dist/css/bootstrap.css'
 
 const inter = Inter({ subsets: ['latin'] })
 

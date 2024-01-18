@@ -1,6 +1,6 @@
 import React from 'react'
 import './Page.css'
-import 'C:/Users/ynnav/Downloads/bipolar/bipolar_intern_assignment/node_modules/bootstrap/dist/css/bootstrap.css'
+
 
 const Page = () => {
   return (
