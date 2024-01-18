@@ -4,7 +4,7 @@ import '../../app/bootstrap.css'
 
 const Table = () => {
     return (
-        <div className='container mt-5 text-center' style={{backgroundColor:'pink'}}>
+        <div className='container mt-5 text-center' >
             <table className='table '>
                 <thead className='table-secondary'>
                     <tr >
