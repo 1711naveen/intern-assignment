@@ -16,6 +16,7 @@ export default function Home() {
         <Table />
         <br /><br />
         <Page />
+        <br /><br />
       </div>
     </main>
   )
