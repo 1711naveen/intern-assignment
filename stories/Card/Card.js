@@ -1,4 +1,5 @@
 import './Card.css'
+import 'C:/Users/ynnav/Downloads/bipolar/bipolar_intern_assignment/app/bootstrap.css'
 
 const Card = () => {
     return (

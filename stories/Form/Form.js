@@ -1,4 +1,5 @@
 import './Form.css';
+import 'C:/Users/ynnav/Downloads/bipolar/bipolar_intern_assignment/app/bootstrap.css'
 
 const Form = () => {
   return (

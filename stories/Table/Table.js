@@ -1,9 +1,10 @@
 import React from 'react'
 import './Table.css'
+import 'C:/Users/ynnav/Downloads/bipolar/bipolar_intern_assignment/app/bootstrap.css'
 
 const Table = () => {
     return (
-        <div className='container mt-5 text-center'>
+        <div className='container mt-5 text-center' style={{backgroundColor:'pink'}}>
             <table className='table '>
                 <thead className='table-secondary'>
                     <tr >
