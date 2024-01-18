@@ -3,7 +3,7 @@ import './Card.css'
 const Card = () => {
     return (
         <>
-            <div className="outerbox mx-5">
+            <div className="outerbox mx-5 border">
                 <div className="card" style={{ height: "412px", width: "340px" }}>
                     <img src="rectangle-31@2x.png" className="card-img-top" alt="..." width="340" height="190" />
                     <div className="card-body">
