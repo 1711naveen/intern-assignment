@@ -1,6 +1,6 @@
 import React from 'react'
 import './Table.css'
-import 'C:/Users/ynnav/Downloads/bipolar/bipolar_intern_assignment/app/bootstrap.css'
+import '../../app/bootstrap.css'
 
 const Table = () => {
     return (
