@@ -29,7 +29,7 @@ const Table = () => {
                         <td>Sep 13, 2023 5:51 PM</td>
                         <td>All Permissions</td>
                         <td><button type="button" className="btn btn-success btn-sm">Active</button></td>
-                        <td><img src="tableredit.svg" alt="" /> <img src="material-symbols_delete-outline.png" alt="" /></td>
+                        <td><a href=''><img src="tableredit.svg" alt="" /> <img src="material-symbols_delete-outline.png" alt="" /></a></td>
                     </tr>
                     <tr>
                         <td>Lingan</td>
@@ -41,7 +41,7 @@ const Table = () => {
                         <td>Today, 2023 2:11 PM</td>
                         <td>3 Permissions</td>
                         <td><button type="button" className="btn btn-success btn-sm">Active</button></td>
-                        <td><img src="tableredit.svg" alt="" /> <img src="material-symbols_delete-outline.png" alt="" /></td>
+                        <td><a href=''><img src="tableredit.svg" alt="" /> <img src="material-symbols_delete-outline.png" alt="" /></a></td>
                     </tr>
                     <tr>
                         <td>Adam</td>
@@ -53,7 +53,7 @@ const Table = () => {
                         <td>Sep 13, 2023 5:51 PM</td>
                         <td>6 Permissions</td>
                         <td><button type="button" className="btn btn-success btn-sm">Active</button></td>
-                        <td><img src="tableredit.svg" alt="" /> <img src="material-symbols_delete-outline.png" alt="" /></td>
+                        <td><a href=''><img src="tableredit.svg" alt="" /> <img src="material-symbols_delete-outline.png" alt="" /></a></td>
                     </tr>
                     <tr>
                         <td>Smith</td>
@@ -65,7 +65,10 @@ const Table = () => {
                         <td>Sep 13, 2023 5:51 PM</td>
                         <td>5 Permissions</td>
                         <td><button type="button" className="btn btn-success btn-sm">Active</button></td>
-                        <td><img src="tableredit.svg" alt="" /> <img src="material-symbols_delete-outline.png" alt="" /></td>
+                        <td>
+                            <a href='/'><img src="tableredit.svg" alt="" /></a>
+                            <a href=''><img src="material-symbols_delete-outline.png" alt="" /></a>
+                        </td>
                     </tr>
                     <tr>
                         <td>John Abraham</td>
@@ -77,7 +80,7 @@ const Table = () => {
                         <td>Sep 13, 2023 5:51 PM</td>
                         <td>2 Permissions</td>
                         <td><button type="button" className="btn btn-danger btn-sm">Inactive</button></td>
-                        <td><img src="tableredit.svg" alt="" /> <img src="material-symbols_delete-outline.png" alt="" /></td>
+                        <td><a href=''><img src="tableredit.svg" alt="" /> <img src="material-symbols_delete-outline.png" alt="" /></a></td>
                     </tr>
                 </tbody>
             </table>

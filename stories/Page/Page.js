@@ -70,7 +70,7 @@ const Page = () => {
                     src="bxvideorecording.svg"
                   />
 
-                  <div className="view-recorded-videos">View Recorded Videos</div>
+                  <div className="view-recorded-videos"><a href='/'>View Recorded Videos</a></div>
                 </div>
                 <div className="bxvideo-recording-parent">
                   <img
@@ -79,7 +79,7 @@ const Page = () => {
                     src="uimrefresh.svg"
                   />
 
-                  <div className="view-recorded-videos">Refetch Camera</div>
+                  <div className="view-recorded-videos"><a href='/'> Refetch Camera</a></div>
                 </div>
               </div>
               <div className="group-container">
@@ -200,7 +200,7 @@ const Page = () => {
               <div className="camera-health-and-alert-parent">
                 <div className="recent-recordings-parent">
                   <div className="camera-health-and">Recent Recordings</div>
-                  <div className="view-all">View All</div>
+                  <div className="view-all"><a href='/'> View All </a></div>
                 </div>
                 <div className="frame-parent6">
                   <div className="group-parent1">
